@@ -1,0 +1,23 @@
+{
+  "name": "fc-github-signkey",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sandro-dev/fc-github-signkey.git"
+  },
+  "keywords": [],
+  "author": {
+    "name": "Sandro Santos",
+    "email": "sandro.dev@gmail.com"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sandro-dev/fc-github-signkey/issues"
+  },
+  "homepage": "https://github.com/sandro-dev/fc-github-signkey#readme"
+}
